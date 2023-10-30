@@ -1,0 +1,107 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega324PA"</DEVICE>
+ <WORKING_DIR>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m324PAdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\Debug\CoolingProject.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>CoolingProject.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>CoolingProject.map</FILE>
+  <FILE>CoolingProject.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>60</LINE></main>
+  <initport><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>563</LINE></initport>
+  <LCD_Init><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>502</LINE></LCD_Init>
+  <manual><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>71</LINE></manual>
+  <mn><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>794</LINE></mn>
+  <LCD_Send_String><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>381</LINE></LCD_Send_String>
+  <LCD_Move_Cursor><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>354</LINE></LCD_Move_Cursor>
+  <moi><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>795</LINE></moi>
+  <timer1_init><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>727</LINE></timer1_init>
+  <delay_max><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>734</LINE></delay_max>
+  <lcd_send_command><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>410</LINE></lcd_send_command>
+  <keypad_sram><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>104</LINE></keypad_sram>
+  <ADC_LOOP><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>197</LINE></ADC_LOOP>
+  <tl><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>792</LINE></tl>
+  <main0><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>114</LINE></main0>
+  <delay10ms><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>534</LINE></delay10ms>
+  <key_pad><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>160</LINE></key_pad>
+  <tieptuc><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>123</LINE></tieptuc>
+  <lcd_send_data><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>438</LINE></lcd_send_data>
+  <th><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>793</LINE></th>
+  <line2><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>137</LINE></line2>
+  <xuatdata><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>146</LINE></xuatdata>
+  <delay1s><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>773</LINE></delay1s>
+  <scan_col><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>165</LINE></scan_col>
+  <number><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>179</LINE></number>
+  <nextk><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>172</LINE></nextk>
+  <exit><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>194</LINE></exit>
+  <scan_row><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>184</LINE></scan_row>
+  <set_flag><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>192</LINE></set_flag>
+  <loop><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>205</LINE></loop>
+  <wait><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>211</LINE></wait>
+  <bin16_bcd_5dg><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>609</LINE></bin16_bcd_5dg>
+  <maxspeed><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>264</LINE></maxspeed>
+  <half><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>256</LINE></half>
+  <off><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>249</LINE></off>
+  <off_c><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>788</LINE></off_c>
+  <outlcd><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>271</LINE></outlcd>
+  <normal_c><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>790</LINE></normal_c>
+  <initTimer0_half><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>713</LINE></initTimer0_half>
+  <initTimer0_max><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>746</LINE></initTimer0_max>
+  <on_c><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>789</LINE></on_c>
+  <temp><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>791</LINE></temp>
+  <div16_8><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>641</LINE></div16_8>
+  <delay1sl><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>760</LINE></delay1sl>
+  <reset_handler><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>332</LINE></reset_handler>
+  <line1><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>787</LINE></line1>
+  <Dout><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>786</LINE></Dout>
+  <LCD_Move_Cursor_Second><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>364</LINE></LCD_Move_Cursor_Second>
+  <LCD_Move_Cursor_Exit><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>373</LINE></LCD_Move_Cursor_Exit>
+  <LCD_Send_String_01><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>390</LINE></LCD_Send_String_01>
+  <LCD_Send_String_02><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>398</LINE></LCD_Send_String_02>
+  <LCD_wait_busy><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>472</LINE></LCD_wait_busy>
+  <LCD_wait_busy_loop><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>480</LINE></LCD_wait_busy_loop>
+  <DELAY1MS><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>522</LINE></DELAY1MS>
+  <LP1><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>524</LINE></LP1>
+  <LP2><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>526</LINE></LP2>
+  <LP3><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>535</LINE></LP3>
+  <interrupt_init><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>542</LINE></interrupt_init>
+  <int0_isr><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>551</LINE></int0_isr>
+  <cleardata><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>570</LINE></cleardata>
+  <shiftoutdata><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>577</LINE></shiftoutdata>
+  <shiftloop><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>580</LINE></shiftloop>
+  <adc_init><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>597</LINE></adc_init>
+  <loop_cl><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>620</LINE></loop_cl>
+  <div_nxt><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>625</LINE></div_nxt>
+  <sh_nxt><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>646</LINE></sh_nxt>
+  <oc_v><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>656</LINE></oc_v>
+  <gt_th><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>658</LINE></gt_th>
+  <next><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>660</LINE></next>
+  <mul_16bit><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>669</LINE></mul_16bit>
+  <loop_m><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>676</LINE></loop_m>
+  <tru_16bit><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>690</LINE></tru_16bit>
+  <dc><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>704</LINE></dc>
+  <start><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>710</LINE></start>
+  <waitt><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>737</LINE></waitt>
+  <LP_1l><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>762</LINE></LP_1l>
+  <LP_2l><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>763</LINE></LP_2l>
+  <LP_3l><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>764</LINE></LP_3l>
+  <LP_1><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>775</LINE></LP_1>
+  <LP_2><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>776</LINE></LP_2>
+  <LP_3><FILE>D:\CODE\VXL\ATMEL STUDIO\CoolingProject\CoolingProject\main.asm</FILE><LINE>777</LINE></LP_3>
+ </LABELS>
+</ASSEMBLER_INFO>
